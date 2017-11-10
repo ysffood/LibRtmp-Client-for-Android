@@ -1,8 +1,6 @@
-<<<<<<< 0208926468ebd5d3a550b4daae8550e5ee59beff
 # LibRtmp-Client-for-Android
 Android RTMP推流基于rtmplib
-=======
-# Librtmp Client for Android
+
 It is probably the smallest(~60KB) rtmp client for android. It calls librtmp functions over JNI interface.
 With all cpu architectures(arm, arm7, arm8, x86, x86-64, mips) its size is getting about 300KB
 
@@ -57,5 +55,3 @@ dependencies {
 <br/>
 
 [Ant Media](http://antmedia.io)
-
->>>>>>> commit
